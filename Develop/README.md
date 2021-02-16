@@ -4,7 +4,7 @@
 
         ## Description
 
-        Dynamic README generator to create a README file based on answers provided about a project.  The user is prompted with questions regarding a given project, and a README is generated with the answers to the questions populated throughout the README.  This allows for a dynamic README to be generated to fit any project.
+        Dynamic README generator to create a README file based on answers provided about a project.  The user is prompted with questions regarding a given project, and a README is generated with the answers to the questions populated throughout the README.  This allows for a dynamic README to be generated to fit any project.  Template literals are used to dynamically create the README.
 
         ## Table of Contents
 
@@ -48,5 +48,6 @@
 
         ## Questions
 
+        LINK TO PROJECT VIDEO RUN-THROUGH
 
-
+        https://www.youtube.com/watch?v=AjshOeVGiok&feature=youtu.be&ab_channel=JoeDavidson

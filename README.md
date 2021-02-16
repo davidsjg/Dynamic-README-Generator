@@ -22,6 +22,8 @@ ${renderLicenseLink(data.license)}
 
 - [Questions](#questions)
 
+- [Contact](#contact)
+
 ## Installation
 
 To install necessary dependencies, run the following command:
