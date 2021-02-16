@@ -118,14 +118,14 @@ function init() {
         ## Description
         
         ${data.description}
-        
+
         ## Table of Contents
         
         * [Installation](#installation)
         
         * [Usage](#usage)
         
-        ${renderLicenseLink(data.license)}
+        * ${renderLicenseLink(data.license)}
         
         * [Contributing](#contributing)
          
